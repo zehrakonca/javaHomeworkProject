@@ -3,7 +3,7 @@ package stringsDemo;
 public class Main {
 
 	public static void main(String[] args) {
-		String message = "the weather is very nice today. ";
+		String message = "uzumaki naruto dattebayo.";
 		System.out.println(message);
 		
 		System.out.println("number of message: "+message.length());
