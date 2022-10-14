@@ -8,7 +8,7 @@ public class Main {
 		
 		EmployeeManager employeeManager = new EmployeeManager();
 		CustomerManager customerManager = new CustomerManager();
-		customerManager.Add();
+		customerManager.add();
 	}
 
 }

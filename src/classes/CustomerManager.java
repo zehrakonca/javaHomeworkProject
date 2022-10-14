@@ -1,15 +1,15 @@
 package classes;
 
 public class CustomerManager {
-	public void Add() {
+	public void add() {
 		System.out.println("customer added!");
 	}
 	
-	public void Remove() {
+	public void remove() {
 		System.out.println("customer deleted!");
 	}
 	
-	public void Update() {
+	public void update() {
 		System.out.println("customer updated!");
 	}
 }

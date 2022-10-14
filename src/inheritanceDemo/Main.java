@@ -4,10 +4,10 @@ public class Main {
 
 	public static void main(String[] args) {
 //		OgretmenKrediManager ogretmenKrediManager = new OgretmenKrediManager();
-//		ogretmenKrediManager.Hesapla();
+//		ogretmenKrediManager.hesapla();
 		
 		KrediUI krediUI = new KrediUI();
-		krediUI.KrediHesapla(new AskerKrediManager());
+		krediUI.krediHesapla(new AskerKrediManager());
 
 	}
 

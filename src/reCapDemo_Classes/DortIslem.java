@@ -1,18 +1,18 @@
 package reCapDemo_Classes;
 
 public class DortIslem {
-	public int Topla(int number1, int number2) {
+	public int topla(int number1, int number2) {
 		return number1+number2;
 	}
 	
-	public int Cikar(int number1,int number2) {
+	public int cikar(int number1,int number2) {
 		return number1-number2;
 	}
 	
-	public int Bol(int number1,int number2) {
+	public int bol(int number1,int number2) {
 		return number1/number2;
 	}
-	public int Carp(int number1,int number2) {
+	public int carp(int number1,int number2) {
 		return number1*number2;
 	}
 }
